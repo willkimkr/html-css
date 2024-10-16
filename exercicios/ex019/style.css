@@ -1,0 +1,39 @@
+/*
+  em HTML e id em CSS = #
+  em HTML e class em CSS = .
+*/
+
+
+body {
+    background-color: rgb(205, 255, 203);
+}
+
+h1 {
+    color: blueviolet
+}
+
+h1#principal {
+    text-align: center;
+}
+
+h2 {
+    color: black
+}
+
+.basico {
+    color: #898989;
+
+}
+
+.intermediario {
+    color: #ed714d;
+
+}
+
+.avancado {
+    color: #000080;
+
+}
+.destaque {
+    background-color: #fff000
+}
